@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+#soccer{
+    background:linear-gradient( #a81828 0%,#2f1596 100%);
+}
+h1,h3{
+    color: brown;
+    font-family: 'Cookie', cursive;
+}
+h2{
+
+font-family: 'Cookie', cursive;
+}
